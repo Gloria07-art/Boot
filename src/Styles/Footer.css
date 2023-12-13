@@ -1,0 +1,11 @@
+.footer {
+    background-color: black;
+    height: 100%;
+    flex: none;
+}
+
+
+.footer-text {
+    color: #FFF;
+    ;
+}

@@ -1,0 +1,60 @@
+.abtHeading {
+    color: #000;
+    font-family: Arial;
+    font-size: 40px;
+    /* font-style: normal; */
+    justify-content: center;
+}
+
+.About {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.abtImg {
+    width: 603px;
+    height: 466px;
+    position: relative;
+    object-fit: cover;
+}
+
+.abtTxt {
+
+    font-size: large;
+}
+
+.paragraph {
+    background-color: #F3B90D;
+}
+
+.abtHeading {
+    color: #000;
+    font-family: Arial;
+    font-size: 40px;
+    /* font-style: normal; */
+    justify-content: center;
+
+
+}
+
+.abt {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    /* flex-shrink: 0; */
+}
+
+.subHeading {
+    color: #000;
+    font-size: 24px;
+}
+
+.ImgSponsor {
+    width: 159px;
+    height: 139px;
+    object-fit: cover;
+    margin: 10px;
+}

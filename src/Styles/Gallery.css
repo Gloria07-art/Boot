@@ -1,0 +1,29 @@
+.galleryMain {
+    background-color: #D5A96D;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 5px;}
+
+
+.Heading{
+    color: #000;
+
+font-family: Arial;
+font-size: 40px;
+}
+
+.subHeading{
+    color: #000;
+
+font-family: Arial;
+font-size: 20px;
+}
+
+.galImg{
+    width:  450px;
+    height: 320px;
+    margin: 10px;
+    position: relative;
+    object-fit: cover;  
+}
